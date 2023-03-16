@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲: \n https://github.com/mdecd2023/2b-pj1bgz   \n 網站: \n https://mdecd2023.github.io/2b-pj1bgz \n', 'tags': '', 'url': 'About.html'}, {'title': 'tutorial1', 'text': 'https://mde.tw/pjcopsim/content/bubbleRobTutorial.html  ', 'tags': '', 'url': 'tutorial1.html'}]};
